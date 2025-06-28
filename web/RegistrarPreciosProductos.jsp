@@ -71,6 +71,95 @@
             <input type="search" name="busqueda" id="campo_busqueda" placeholder="Ingrese codigo o nombre">
             <button name="buscar" id="boton_buscar">Buscar Producto</button>
         </div>
+        
+        <table class="tabla">
+            <tr class="th1">
+                <th>Codigo</th>
+                <th>Productos</th>
+                <th>Unidad</th>
+                <th>Costo</th>
+                <th>Precio Venta</th>
+                <th>Stock</th>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+            <tr>
+                <td>sadfdsfadsafdas</td>
+                <td>sdafdsafadsfdsaf</td>
+                <td>sadfsdafdsafsdafsda</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+                <td>fdsfdasfdsafdsa</td>
+            </tr>
+        </table>
+        
+        <div class="botones">
+        <button name="generar" id="buscar">Generar</button>
+        <button name="guardar" id="guardar">Guardar</button>
+        <button name="imprimir" id="imprimir">Imprimir</button>
+        </div>
             
             
             
