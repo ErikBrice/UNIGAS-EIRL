@@ -1,0 +1,168 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 24 jun 2025, 12:49:51
+    Author     : benll
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+}
+
+h1 {
+    text-align: start;
+    margin-top: 30px;
+    color: #333;
+    margin-left: 160px;
+    padding-left: 160px;
+}
+
+.ofertas, .productos {
+    padding: 20px;
+}
+
+.galeria-ofertas {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.galeria-productos {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.galeria-ofertas img,
+.galeria-productos img {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    
+}
+
+.galeria-ofertas img:hover,
+.galeria-productos img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    
+}
+
+    .Registro{
+        position: relative;
+        border: 2px solid black;
+        background-color: white;
+        padding: 20px 0;
+        text-align: center;
+        margin: 20px auto;
+        width: 96%;
+        box-sizing: border-box;
+    }
+    .icono{
+        position: absolute;
+        left: 30px;
+        top: 50%;
+        transform: translateY(-50%);
+        width:95px;
+        height: 76px;
+        
+    }
+    
+    .titulo1{
+        margin: 0;
+        font-size: 24px;
+        font-family: Arial, sans-serif;
+        color: black;
+      
+    }
+    .registro_campos{
+        border: 2px solid black;
+        background-color: white;
+        padding: 20px;
+        margin: 40px 36px;
+        border-radius: 5px;
+    }
+  
+.fila1,
+.fila2,
+.fila3,
+.fila4 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.fila1 > *,
+.fila2 > *,
+.fila3 > *
+ {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 30%; /* 3 campos por fila */
+    box-sizing: border-box;
+}
+.fila4 > *{
+    display: flex;
+    align-items: flex-start;
+    gap: 180px;
+    width: 30%; /* 3 campos por fila */
+    box-sizing: border-box;
+}
+.formulario{
+    background-color: skyblue;
+}
+
+.boton_buscar{
+    margin-top: 10px ;
+    margin-left: 30px;
+    padding: 10px;
+}
+.tabla{
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 96%;
+    margin: 10px 35px;
+    
+}
+
+table, th, td{
+    border: 2px solid black;
+    
+}
+th{
+    background-color: gray;
+}
+td{
+    background-color: white;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 100px;
+    width: 80%;
+    height: 30px;
+}
+button{
+    
+}
+    
+    
+
+
+
+
+
+
